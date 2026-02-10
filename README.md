@@ -1,7 +1,6 @@
 # Heritage Archives – Frontend
 
-This repository contains a **minimal frontend implementation** of the Heritage Archives website, built using **React** and **Tailwind CSS**.  
-The goal is to maintain a clean UI, responsive layout, and a scalable structure for future full-stack expansion.
+This repository contains a **minimal frontend implementation** of the Heritage Archives website, built using **React** and **Tailwind CSS**.The goal is to maintain a clean UI, responsive layout, and a scalable structure for future full-stack expansion.
 
 🔗 **Live Website:** https://heritage-archives.org
 
