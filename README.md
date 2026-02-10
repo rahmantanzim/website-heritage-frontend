@@ -1,9 +1,21 @@
-# Website for Heritage Archives (Front end)
-This is a minimal frotnend version of the website, built with React and Tailwind css. 
+# Heritage Archives – Frontend
 
-- [Live Link](https://heritage-archives.org) 
+This repository contains a **minimal frontend implementation** of the Heritage Archives website, built using **React** and **Tailwind CSS**.  
+The goal is to maintain a clean UI, responsive layout, and a scalable structure for future full-stack expansion.
 
-## Folder Structure
+🔗 **Live Website:** https://heritage-archives.org
+
+---
+
+## Tech Stack
+
+- React
+- Tailwind CSS
+- Vite
+
+---
+
+## Project Structure
 
 src/
 ├── components/
@@ -25,8 +37,27 @@ src/
 ├── App.jsx
 └── main.jsx
 
+---
 
-## Future implementations
+## Current Features
 
-A full website with an admin dashboard. 
-Tech Stack: Node JS, TypeScript, Express JS, MongoDB
+- Static frontend pages
+- Reusable React components
+- JSON-based mock data
+- Fully responsive design
+- Clean and minimal UI
+
+---
+
+## Future Improvements
+
+- Full-stack implementation
+- Admin dashboard for content management (CRUD)
+- API-driven data instead of static JSON
+
+### Planned Tech Stack
+
+- Node.js
+- TypeScript
+- Express.js
+- MongoDB
