@@ -17,6 +17,7 @@ The goal is to maintain a clean UI, responsive layout, and a scalable structure 
 
 ## Project Structure
 
+~~~text
 src/
 ├── components/
 │   ├── Navbar.jsx
@@ -36,18 +37,8 @@ src/
 │
 ├── App.jsx
 └── main.jsx
+~~~
 
----
-
-## Current Features
-
-- Static frontend pages
-- Reusable React components
-- JSON-based mock data
-- Fully responsive design
-- Clean and minimal UI
-
----
 
 ## Future Improvements
 
