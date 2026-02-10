@@ -1,0 +1,9 @@
+:root{
+  --ha-primary:#2f5d50;
+  --ha-accent:#C49A6C;
+  --ha-bg:#EEF6F4;
+
+  --ha-text:#0f172a;     /* slate-900-ish */
+  --ha-muted:#475569;    /* slate-600-ish */
+  --ha-border:#e2e8f0;   /* slate-200-ish */
+}
